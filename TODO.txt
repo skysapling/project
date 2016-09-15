@@ -1,0 +1,4 @@
+create main menu (different modes?)
+individual bullet angle
+gravity + trajectory
+create target +/ enemy
